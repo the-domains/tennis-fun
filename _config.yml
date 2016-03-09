@@ -1,28 +1,40 @@
-name: Tennis fun
-favicon: null
-layout_spectrum: 0.7794790798798203
-typography_spectrum: 0.3809292695950717
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7794790798798203
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.4628040187526494
+  brandStrength: 0.7759885038249195
+  rhythmicContrast: 0.9207391617819667
   brandColors:
     - '#100f15'
     - '#a93333'
     - '#fefefe'
     - '#b9b2a2'
     - '#fdeb2e'
-  brandStrength: 0.7759885038249195
   lightness: 0.6932277546729892
-  saturation: 0.4628040187526494
-  rhythmicContrast: 0.9207391617819667
 purpose: []
+favicon: null
+name: Tennis fun
+typography_spectrum: 0.3809292695950717
