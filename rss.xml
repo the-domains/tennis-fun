@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tennis fun]]></title>
         <description><![CDATA[Tennis fun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tennis-fun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 14:47:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 00:37:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tennis-fun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db446a9e-ba4b-4694-bbd4-875accd1c18b.jpg">]]></description>
+            <link>https://thegrid.ai/tennis-fun/d74aec4a-2413-439e-bbad-fa5f86e0b6b6/index.html</link>
+            <guid isPermaLink="false">d74aec4a-2413-439e-bbad-fa5f86e0b6b6</guid>
+            <pubDate>Thu, 10 Mar 2016 00:37:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24bbe9b9-2d38-49d1-94ec-c61905941b08.png">]]></description>
-            <link>undefined715181f7-53b4-42f7-b249-03ab1c7fcbe3/index.html</link>
+            <link>https://thegrid.ai/tennis-fun/715181f7-53b4-42f7-b249-03ab1c7fcbe3/index.html</link>
             <guid isPermaLink="false">715181f7-53b4-42f7-b249-03ab1c7fcbe3</guid>
             <pubDate>Wed, 09 Mar 2016 14:46:05 GMT</pubDate>
         </item>
